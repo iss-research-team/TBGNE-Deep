@@ -5,7 +5,7 @@ Python 3
 PyTorch  
 sklearn  
 ## Getting Started 
-Clone this repo. 
+Clone this repo.  
 git clone https://github.com/iss-research-team/TBGNE-Deep/  
 cd TBGNE-Deep  
 ## Dataset  
