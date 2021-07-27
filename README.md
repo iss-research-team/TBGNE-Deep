@@ -1,20 +1,22 @@
 # TBGNE-Deep
-
-# Prerequisites 
+An AMT adoption prediction model based on neighbor in multilayer networks, and enriched by deep learning. 
+## Prerequisites 
 Python 3  
 PyTorch  
-# Getting Started 
+sklearn  
+## Getting Started 
 Clone this repo. 
 git clone https://github.com/iss-research-team/TBGNE-Deep/  
 cd TBGNE-Deep  
-# Dataset 
+## Dataset  
 These datasets are sampled from the original datasets. 
 T(echnology)B(usiness)G(eography) data, from Ningbo, Zhejiang, China, contains xxx nodes and xxx edges.  
-# Training 
-Training on the existing datasets 
-You can use the sample data in TBGNE-Deep/data, or you can make your own dataset.
-Representation of vectors in multilayer networks can be calculated by running TBGNE-Deep/src/run_pytorch.py 
-
-
-# Predict model
-
+## Training  
+Training on the existing datasets  
+Users can use the sample data in TBGNE-Deep/data, or they can make their own dataset.  
+Representation of node in multilayer networks can be calculated by running TBGNE-Deep/src/run_pytorch.py  
+Predict model can be trained by running TBGNE-Deep/src/predict_model.py  
+And users can get assessment of predict model in TBGNE-Deep/src/predict_model.py  
+## Predict model
+Predict model is saved after trainning by running TBGNE-Deep/src/predict_model.py, which can be used in other AMT adoption prediction tasks. 
+ 
