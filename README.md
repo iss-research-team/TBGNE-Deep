@@ -11,7 +11,7 @@ git clone https://github.com/iss-research-team/TBGNE-Deep/
 cd TBGNE-Deep  
 ```
 ## Dataset  
-由于研究中数据的相关规定，These datasets are sampled from the original datasets. 
+由于数据提供方的相关规定，These datasets are sampled from the original datasets. 
 T(echnology)B(usiness)G(eography) data, from Ningbo, Zhejiang, China, contains xxx nodes and xxx edges.  
 完整的数据及结果请联系我们  
 ## Training  
