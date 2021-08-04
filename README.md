@@ -11,7 +11,7 @@ git clone https://github.com/iss-research-team/TBGNE-Deep/
 cd TBGNE-Deep  
 ```
 ## Dataset  
-Due to the relevant regulations of the data provider, these datasets are sampled from the original datasets. 
+Due to the relevant regulations of the data provider, these datasets are sampled from the original datasets.  
 T(echnology)B(usiness)G(eography) data, from Ningbo, Zhejiang, China, contains 36226 nodes and 94103 edges.  
 If complete data and results are required, please contact us by gnxu@bupt.edu.cn.  
 ## Training  
