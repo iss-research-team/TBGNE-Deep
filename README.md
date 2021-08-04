@@ -13,7 +13,7 @@ cd TBGNE-Deep
 ## Dataset  
 Due to the relevant regulations of the data provider, these datasets are sampled from the original datasets. 
 T(echnology)B(usiness)G(eography) data, from Ningbo, Zhejiang, China, contains 36226 nodes and 94103 edges.  
-Contact us for complete data and results.  
+If complete data and results are required, please contact us.  
 ## Training  
 Training on the existing datasets  
 Users can use the sample data in /data, or they can make their own dataset.  
